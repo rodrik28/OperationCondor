@@ -1,0 +1,4 @@
+repository "OperationCondor/OperationCondor@4674240085659@cloud"
+  path "/"
+    br "/main"
+    co "/main"
